@@ -79,12 +79,9 @@ Since it’s a pentesting tool on your network, secure it:
 
 ---
 
-### 🧰 Optional Extras:
-- **PiJuice or battery pack** for portable ops
-- **USB rubber ducky** for HID attacks
-- **Install P4wnP1 A.L.O.A.** (for USB attack platform)
-- **Set up VPN or Tor routing** for anonymized testing
+[### 🧰 Optional Extras:]: #
+[- **PiJuice or battery pack** for portable ops]: #
+[- **USB rubber ducky** for HID attacks]: #
+[- **Install P4wnP1 A.L.O.A.** (for USB attack platform)]:  #
+[- **Set up VPN or Tor routing** for anonymized testing]: #
 
----
-
-Would you like to set up a specific type of tool (like Metasploit, Burp, or Wireshark), or are you building out a particular scenario (e.g., phishing, web app testing, etc.)?
